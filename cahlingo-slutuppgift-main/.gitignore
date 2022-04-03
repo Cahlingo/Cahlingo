@@ -1,0 +1,9 @@
+.coverage
+coverage.xml
+requirements.txt
+tox.ini
+.pytest_cache
+.tox
+.venv
+.vscode
+__pycache__
